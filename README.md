@@ -1,6 +1,7 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ankitsharma2006&color=blue)
 
-<!--
+<!--  
 **ankitsharma2006/ankitsharma2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
